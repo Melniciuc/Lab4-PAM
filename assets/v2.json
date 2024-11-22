@@ -1,0 +1,98 @@
+{
+  "nearest_barbershop": [
+    {
+      "name": "Barber 1",
+      "location_with_distance": "Area 1 (1.1 km)",
+      "image": "https://www.barberevo.com/wp-content/uploads/2021/04/HQ.jpg",
+      "review_rate": 4.1
+    },
+    {
+      "name": "Barber 2",
+      "location_with_distance": "Area 2 (1.2 km)",
+      "image": "https://cdn.shopify.com/s/files/1/0702/0393/files/Sultans.png?v=1687224686",
+      "review_rate": 4.2
+    },
+    {
+      "name": "Barber 3",
+      "location_with_distance": "Area 3 (1.3 km)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYzBxZwewkqxqjTmSSCFUu1-Kjzzqbj36-_A&s",
+      "review_rate": 4.3
+    },
+    {
+      "name": "Barber 4",
+      "location_with_distance": "Area 4 (1.4 km)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3kzUBUtIIa0ke0dn0Veid1PzvbHBjAOE-rZvhq7J6amTSvat6jAWfCEH_wBVjNFVOSA&usqp=CAU",
+      "review_rate": 4.4
+    },
+    {
+      "name": "Barber 5",
+      "location_with_distance": "Area 5 (1.5 km)",
+      "image": "https://images.fresha.com/locations/location-profile-images/46463/1648655/43154442-5925-4fcc-9d06-ba119507eb7e.jpg?class=venue-gallery-mobile",
+      "review_rate": 4.5
+    },
+    {
+      "name": "Barber 6",
+      "location_with_distance": "Area 6 (1.6 km)",
+      "image": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1113423/biz_photo/044d942890c44f97bba2fa7dc8dbae-lost-and-found-barbershop-biz-photo-7ab14f789aa14f6687e62577ff25d7-booksy.jpeg?size=640x427",
+      "review_rate": 4.6
+    },
+    {
+      "name": "Barber 7",
+      "location_with_distance": "Area 7 (1.7 km)",
+      "image": "https://images.squarespace-cdn.com/content/v1/56966c9fa976af028c273fcd/4065e06e-b329-4cc2-ad8d-4af0803d5266/House+of+Shaves+Barbershop+on+Southside+Boulevard+in+Jacksonville%2C+Florida.+Best+barbershop+in+Jacksonville.",
+      "review_rate": 4.7
+    }
+  ],
+  "most_recommended": [
+    {
+      "name": "Master Piece Barbershop - Haircut Styling",
+      "location_with_distance": "Downtown (3 km)",
+      "image": "https://d2zdpiztbgorvt.cloudfront.net/region1/ca/9555/biz_photo/f0a32c4a19bd46da8da3a83cf4540f-big-house-barber-studio-biz-photo-126cfe09f0cd4110bba05849127fb5-booksy.jpeg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - Grooming Services",
+      "location_with_distance": "Eastside (4.5 km)",
+      "image": "https://www.barberevo.com/wp-content/uploads/2021/04/HQ.jpg",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (2 km)",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/6moMLLzXSHoytnYzQ-1krg/1000s.jpg",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "https://cdn.shopify.com/s/files/1/0702/0393/files/Sultans.png?v=1687224686",
+      "review_rate": 4.8
+    }
+  ],
+  "list": [
+    {
+      "name": "Master Piece Barbershop \n - Haircut Styling",
+      "location_with_distance": "Banguntapan (5 km)",
+      "image": "https://d2zdpiztbgorvt.cloudfront.net/region1/ca/9555/biz_photo/f0a32c4a19bd46da8da3a83cf4540f-big-house-barber-studio-biz-photo-126cfe09f0cd4110bba05849127fb5-booksy.jpeg",
+      "review_rate": 4.9
+    },
+    {
+      "name": "Sharp Edge Barbers - \n  Grooming Services",
+      "location_with_distance": "Downtown (4 km)",
+      "image": "https://images.fresha.com/locations/location-profile-images/46463/1648655/43154442-5925-4fcc-9d06-ba119507eb7e.jpg?class=venue-gallery-mobile",
+      "review_rate": 4.8
+    },
+    {
+      "name": "Gentlemen's Cut & Style",
+      "location_with_distance": "Old Town (3.5 km)",
+      "image": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1113423/biz_photo/044d942890c44f97bba2fa7dc8dbae-lost-and-found-barbershop-biz-photo-7ab14f789aa14f6687e62577ff25d7-booksy.jpeg?size=640x427",
+      "review_rate": 4.7
+    },
+    {
+      "name": "Classic Trim Barbershop",
+      "location_with_distance": "West End (6 km)",
+      "image": "https://s3-media0.fl.yelpcdn.com/bphoto/6moMLLzXSHoytnYzQ-1krg/1000s.jpg",
+      "review_rate": 4.6
+    }
+  ]
+}
